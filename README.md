@@ -59,9 +59,9 @@ This project highlights expertise in:
 🔹 **Perfect for System Administrators & IT Support Roles** – Essential for professionals managing corporate IT environments
 
 ## 👨‍💻 About the Author
-🚀 **Your Name**  
-🔗 **LinkedIn:** [your-profile](https://linkedin.com/in/yourprofile)  
-🔗 **GitHub:** [yourgithub](https://github.com/yourgithub)  
+🚀 **Muhammad Hammad**  
+🔗 **LinkedIn:** [mhammad24](https://linkedin.com/in/mhammad24)  
+🔗 **GitHub:** [Muhammadhammad24](https://github.com/Muhammadhammad24)  
 
 📢 **Want to contribute? Feel free to fork & improve this project! 🚀**
 
