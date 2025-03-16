@@ -1,4 +1,4 @@
-# 🚀 Active Directory Management Automation
+# Active Directory Management Automation
 
 ## 📌 Overview
 This project automates **Active Directory user management** tasks using PowerShell, reducing manual administrative work and enhancing IT support efficiency. Key functionalities include:
